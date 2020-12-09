@@ -1,0 +1,10 @@
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D7.ComboBoxİnceleme\bin\Debug\NetFramework.Sıra19.D7.ComboBoxİnceleme.exe.config
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D7.ComboBoxİnceleme\bin\Debug\NetFramework.Sıra19.D7.ComboBoxİnceleme.exe
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D7.ComboBoxİnceleme\bin\Debug\NetFramework.Sıra19.D7.ComboBoxİnceleme.pdb
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D7.ComboBoxİnceleme\obj\Debug\NetFramework.Sıra19.D8.ComboBoxİnceleme.csprojAssemblyReference.cache
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D7.ComboBoxİnceleme\obj\Debug\NetFramework.Sıra19.D7.ComboBoxİnceleme.Form1.resources
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D7.ComboBoxİnceleme\obj\Debug\NetFramework.Sıra19.D7.ComboBoxİnceleme.Properties.Resources.resources
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D7.ComboBoxİnceleme\obj\Debug\NetFramework.Sıra19.D8.ComboBoxİnceleme.csproj.GenerateResource.cache
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D7.ComboBoxİnceleme\obj\Debug\NetFramework.Sıra19.D8.ComboBoxİnceleme.csproj.CoreCompileInputs.cache
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D7.ComboBoxİnceleme\obj\Debug\NetFramework.Sıra19.D7.ComboBoxİnceleme.exe
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D7.ComboBoxİnceleme\obj\Debug\NetFramework.Sıra19.D7.ComboBoxİnceleme.pdb

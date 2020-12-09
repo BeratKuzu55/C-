@@ -1,0 +1,7 @@
+C:\C# udemy\NetFramework\NetFramework.S3.D5.HesapMakinesiÖdev\bin\Debug\NetFramework.S3.D5.HesapMakinesiÖdev.exe.config
+C:\C# udemy\NetFramework\NetFramework.S3.D5.HesapMakinesiÖdev\bin\Debug\NetFramework.S3.D5.HesapMakinesiÖdev.exe
+C:\C# udemy\NetFramework\NetFramework.S3.D5.HesapMakinesiÖdev\bin\Debug\NetFramework.S3.D5.HesapMakinesiÖdev.pdb
+C:\C# udemy\NetFramework\NetFramework.S3.D5.HesapMakinesiÖdev\obj\Debug\NetFramework.S3.D5.HesapMakinesiÖdev.csprojAssemblyReference.cache
+C:\C# udemy\NetFramework\NetFramework.S3.D5.HesapMakinesiÖdev\obj\Debug\NetFramework.S3.D5.HesapMakinesiÖdev.csproj.CoreCompileInputs.cache
+C:\C# udemy\NetFramework\NetFramework.S3.D5.HesapMakinesiÖdev\obj\Debug\NetFramework.S3.D5.HesapMakinesiÖdev.exe
+C:\C# udemy\NetFramework\NetFramework.S3.D5.HesapMakinesiÖdev\obj\Debug\NetFramework.S3.D5.HesapMakinesiÖdev.pdb

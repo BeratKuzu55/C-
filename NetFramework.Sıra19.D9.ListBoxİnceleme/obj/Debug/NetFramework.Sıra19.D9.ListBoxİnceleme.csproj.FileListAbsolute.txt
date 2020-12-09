@@ -1,0 +1,10 @@
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D9.ListBoxİnceleme\bin\Debug\NetFramework.Sıra19.D9.ListBoxİnceleme.exe.config
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D9.ListBoxİnceleme\bin\Debug\NetFramework.Sıra19.D9.ListBoxİnceleme.exe
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D9.ListBoxİnceleme\bin\Debug\NetFramework.Sıra19.D9.ListBoxİnceleme.pdb
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D9.ListBoxİnceleme\obj\Debug\NetFramework.Sıra19.D9.ListBoxİnceleme.csprojAssemblyReference.cache
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D9.ListBoxİnceleme\obj\Debug\NetFramework.Sıra19.D9.ListBoxİnceleme.Form1.resources
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D9.ListBoxİnceleme\obj\Debug\NetFramework.Sıra19.D9.ListBoxİnceleme.Properties.Resources.resources
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D9.ListBoxİnceleme\obj\Debug\NetFramework.Sıra19.D9.ListBoxİnceleme.csproj.GenerateResource.cache
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D9.ListBoxİnceleme\obj\Debug\NetFramework.Sıra19.D9.ListBoxİnceleme.csproj.CoreCompileInputs.cache
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D9.ListBoxİnceleme\obj\Debug\NetFramework.Sıra19.D9.ListBoxİnceleme.exe
+C:\C# udemy\NetFramework\NetFramework.Sıra19.D9.ListBoxİnceleme\obj\Debug\NetFramework.Sıra19.D9.ListBoxİnceleme.pdb

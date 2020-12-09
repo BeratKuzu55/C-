@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace NetFramework.Sıra19.D7.ComboBoxİnceleme
+namespace NetFramework.Sıra19.D9.ListBoxİnceleme
 {
     static class Program
     {
